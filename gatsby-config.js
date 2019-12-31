@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `PREMY の利用記録と娯楽の感想`,
+    title: `PREMYの利用記録と娯楽の感想`,
     author: `Yuu`,
-    description: `PREMY を利用して見た・体験したことを記録しているブログです`,
+    description: `PREMYを利用して見た・体験したことを記録しているブログです`,
     siteUrl: `https://ue-y.me/blog/premy`,
     social: {
       twitter: `psnzbss`,
@@ -57,7 +57,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `PREMYの利用記録と娯楽の感想`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
