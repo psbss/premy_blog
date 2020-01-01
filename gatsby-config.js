@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: `/blog/premy`,
   siteMetadata: {
     title: `PREMYの利用記録と娯楽の感想`,
     author: `Yuu`,
