@@ -3,7 +3,7 @@ module.exports = {
     title: `PREMYの利用記録と娯楽の感想`,
     author: `Yuu`,
     description: `PREMYを利用して見た・体験したことを記録しているブログです`,
-    siteUrl: `https://ue-y.me/blog/premy`,
+    siteUrl: `https://ue-y.me/blog/premy/`,
     social: {
       twitter: `psnzbss`,
     },
