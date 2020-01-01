@@ -24,7 +24,7 @@ class Layout extends React.Component {
               textDecoration: `none`,
               color: `inherit`,
             }}
-            to={'blog/premy/'}
+            to={'/'}
           >
             {title}
           </Link>
@@ -44,7 +44,7 @@ class Layout extends React.Component {
               textDecoration: `none`,
               color: `inherit`,
             }}
-            to={`blog/premy/`}
+            to={'/'}
           >
             {title}
           </Link>
