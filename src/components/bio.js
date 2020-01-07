@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong>．ビジネスレイヤもできるエンジニアを目指している地方大学生．
+        Written by <strong>{author}</strong>．ビジネスサイドもできるエンジニアを目指している地方大学生．
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           フォローする
